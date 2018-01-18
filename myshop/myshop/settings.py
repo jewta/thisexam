@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'shop',
     'cart',
-    'orders'
+    'orders',
+    'account'
 ]
 
 MIDDLEWARE = [
